@@ -5,3 +5,5 @@ toy_example.py
 layers_to_sparsify/
 
 data/
+
+*.pyc
